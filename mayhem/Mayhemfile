@@ -5,7 +5,7 @@ project: fit
 target: fit-decode-encode-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/fit:latest
+# image: ghcr.io/lotdeef/fit:latest
 
 # List of commands used to test the target
 cmds:
